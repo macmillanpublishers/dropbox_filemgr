@@ -1,10 +1,6 @@
-# PEP8 Squad
+# Dropbox API Example
 
-Enforcements of [PEP8's](https://www.python.org/dev/peps/pep-0008) suggestions, with Dropbox and [YAPF](https://github.com/google/yapf).
-
-Read more about webhooks [the Dropbox developers site](https://www.dropbox.com/developers/webhooks/tutorial).
-
-You can try the example yourself by visiting [pep8squad.herokuapp.com](https://pep8squad.herokuapp.com).
+Basic example of how to use Dropbox APIs
 
 ## Running the sample yourself
 
