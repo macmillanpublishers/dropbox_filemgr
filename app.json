@@ -1,0 +1,22 @@
+{
+  "name": "Dropbox API Example",
+  "logo": "https://dropboxapiexample.herokuapp.com/static/dropbox-logo.png",
+  "website": "https://www.dropbox.com/developers/webhooks/tutorial",
+  "keywords": ["dropbox", "python", "flask"],
+  "success_url": "/",
+  "env": {
+    "APP_KEY": {
+      "description": "Your Dropbox app key (found at dropbox.com/developers/apps)"
+    },
+    "APP_SECRET": {
+      "description": "Your Dropbox app secret (found at dropbox.com/developers/apps)"
+    },
+    "DEBUG": {
+      "description": "Boolean value to declare whether debuging is on or not. (True, or False)"
+    },
+    "FLASK_SECRET_KEY": {
+      "description": "A secret key for cookie signing",
+      "generator": "secret"
+    }
+  }
+}
